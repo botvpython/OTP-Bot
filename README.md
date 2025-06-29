@@ -1,5 +1,5 @@
 # OTP Bot Telegram | OTP Grabber
-Deluxe OTP Bot on Telegram for OTP / SMS Codes Grabbing and Bypass | **t.me/deluxeotpbot** | Victim will get call from real bank support line (actually it's fake), will dial the otp code and otp bot will send the code to us directly on telegram.
+Deluxe OTP Bot on Telegram for OTP / SMS Codes Grabbing and Bypass | OTP Bot: **t.me/deluxeotpbot** | Victim will get call from real bank support line (actually it's fake), will dial the otp code and otp bot will send the code to us directly on telegram.
 
 #### How Can I Access to Deluxe OTP Bot?
 
